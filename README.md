@@ -10,5 +10,5 @@ I am a software developer with experience in C++ and SQL problem-solving, as wel
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profil](https://www.linkedin.com/in/blessings-mwale-8a3ba5244)e)
+- [LinkedIn](https://www.linkedin.com/in/blessings-mwale-8a3ba5244)
 
